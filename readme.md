@@ -2,6 +2,9 @@
 
 This program utilizes Selenium WebDriver with ChromeDriver to fetch the current temperature and city information from a weather website. It is a simple example of web scraping for educational purposes. The program is written in Python.
 
+## Screen Shot
+![app](app.png)
+
 ## Prerequisites
 
 - Python 3.x
